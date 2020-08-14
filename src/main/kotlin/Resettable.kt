@@ -1,0 +1,3 @@
+interface Resettable {
+    fun reset()
+}
